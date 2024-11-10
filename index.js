@@ -19,6 +19,15 @@ let students = [
         duration: "4 weeks",
         startingDate: "25/Jul/2024",
         awardingDate: "25/Aug/2024"
+    },
+    {
+         id: "3473dq6",
+        username: "Abhinandan Gupta",
+        domain: "Web Development",
+        duration: "4 weeks",
+        startingDate: "02/Jul/2024",
+        awardingDate: "02/Aug/2024"
+    
     }
 ];
 
