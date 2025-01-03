@@ -41,6 +41,15 @@ let students = [
         awardingDate: "02/Aug/2024"
     
     },
+        {
+         id: "6248me2",
+        username: "Vivek Kumar Yadav",
+        domain: "Web Development",
+        duration: "4 weeks",
+        startingDate: "13/Jul/2024",
+        awardingDate: "13/Aug/2024"
+    
+    },
     {
          id: "6232xa1",
         username: "Raj Tripathi",
