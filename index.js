@@ -3,14 +3,7 @@ const app = express();
 const path = require("path");
 
 let students = [
-    {
-        id: "4107qf5",
-        username: "Rishabh",
-        domain: "Web Development",
-        duration: "4 weeks",
-        startingDate: "04/Jul/2024",
-        awardingDate: "04/Aug/2024"
-    },
+
     
     {
         id: "6872ab6",
@@ -20,6 +13,25 @@ let students = [
         startingDate: "25/Jul/2024",
         awardingDate: "25/Aug/2024"
     },
+        
+    {
+        id: "6193zq6",
+        username: "Ishita Sharma",
+        domain: "Web Development",
+        duration: "4 weeks",
+        startingDate: "06/Jul/2024",
+        awardingDate: "06/Aug/2024"
+    },
+        
+    {
+        id: "6501gs4",
+        username: " Harshit Kumar Mishra",
+        domain: "Web Development",
+        duration: "4 weeks",
+        startingDate: "20/Jul/2024",
+        awardingDate: "20/Aug/2024"
+    },
+    
     {
          id: "3473dq6",
         username: "Abhinandan Gupta",
